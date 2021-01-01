@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScenee.unity
+- path: Assets/Christmas_Log_Village/DemoScene/Christmas_Log_Village_Interior.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
