@@ -5,7 +5,7 @@
 
   <h1>Throw Saber</h1>
   <p>I am playing too much Star Wars Battlefront II recently and I really liked the Darth Maul's throwing saber skill. So I made a replica of it in Unity3D</p>
-  <img src="https://im3.ezgif.com/tmp/ezgif-3-89d8d3a1636e.gif" width="480" height="480">
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-89d8d3a1636e.gif" width="300" height="300">
 
 </div>
 
