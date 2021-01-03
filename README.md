@@ -5,7 +5,7 @@
 
   <h1>Throw Saber</h1>
   <p>I am playing too much Star Wars Battlefront II recently and I really liked the Darth Maul's throwing saber skill. So I made a replica of it in Unity3D</p>
-  <iframe src="https://giphy.com/embed/thLWVafBGtXiPKng4M" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-starwars-thLWVafBGtXiPKng4M">via GIPHY</a></p>
+  <img src="https://im3.ezgif.com/tmp/ezgif-3-06efa2c90ff0.gif" width="480" height="480">
 
 </div>
 
