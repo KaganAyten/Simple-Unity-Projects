@@ -28,7 +28,7 @@
   <img src="https://media.giphy.com/media/sesxkMM7Ju2ob7eD2g/giphy.gif" width="300" height="300">
   
   <h3><a href="https://github.com/KaganAyten/Simple-Unity-Projects/tree/main/MandoPull">Mandolarian Pulling Enemy</a></h3>
-  <p>Mando's pulling enemy with grappling system in Unity3D from Mandolarian TV Series./p>
+  <p>Mando's pulling enemy with grappling system in Unity3D from Mandolarian TV Series.</p>
   <img src="https://media.giphy.com/media/VkSPm3N9pG3FaVoWst/giphy.gif" width="300" height="300">
   
 
